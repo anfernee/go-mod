@@ -1,7 +1,7 @@
 package mod
 
-func Foo() string {
-	return "foo"
+func Foo(b string) string {
+	return "foo" + b
 }
 
 func FooBar() string {
