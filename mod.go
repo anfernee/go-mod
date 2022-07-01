@@ -11,3 +11,7 @@ func FooBar() string {
 func FooV2() string {
 	return "foov2"
 }
+
+func FooV3() string {
+	return "foov3"
+}
